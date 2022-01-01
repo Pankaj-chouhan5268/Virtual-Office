@@ -56,7 +56,7 @@ Virtual office is usually deployed across entire organizations and not just with
     <li>Sequence Diagram</li>
     <img src="Images/Sequence.png">
     <li>Use Case Diagram</li>
-    <img src="Images/use case diagram.png">
+    <img src="Images/activity.jfif">
     <li>Data Flow Diagram {DFD}</li>
     <img src="Images/.png">
     <li>Component Diagram</li>
