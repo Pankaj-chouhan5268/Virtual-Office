@@ -66,3 +66,18 @@ Virtual office is usually deployed across entire organizations and not just with
     <li>Activity Diagram</li>
     <img src="Images/activity.jfif"><br>
   </ul>
+  <h3>Limitations</h3>
+  <ul>
+    <li>Administration cannot add department in existing organization.</li>
+    <li>They cannot chat in a group.</li>
+    <li>The user is not able to join organization without logging with proper credentials.</li>
+  </ul>
+   <h3>Future Enhancement </h3>
+  <ul>
+    <li>Providing high-end business tolls such graph simulator and generator.</li>
+    <li>We can add video chat tool.</li>
+    <li>Admin can update details of organization.</li>
+    <li>Making messaging more enhanced.</li>
+    <li>Easing out the functionalities for better performance.</li>
+    <li>Raising security to secure confidential data.</li>
+  </ul>
