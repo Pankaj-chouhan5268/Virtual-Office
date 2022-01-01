@@ -49,3 +49,18 @@ Virtual office is usually deployed across entire organizations and not just with
     <li>JavaScript</li>
     <li>ORM</li>
   </ul>
+   <h3>Diagrams</h3>
+  <ul>
+    <li>ER Diagram</li>
+    <img src="Images/ER.png">
+    <li>Sequence Diagram</li>
+    <img src="Images/Sequence.png">
+    <li>Use Case Diagram</li>
+    <img src="Images/use case diagram.png">
+    <li>Data Flow Diagram {DFD}</li>
+    <img src="Images/.png">
+    <li>Component Diagram</li>
+    <img src="Images/ER.png">
+    <li></li>
+    <li></li>
+  </ul>
